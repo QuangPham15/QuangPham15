@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Quang 👋
 
-<!--
-**QuangPham15/QuangPham15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer passionate about building web apps
 
-Here are some ideas to get you started:
+**Tech Stack:**
+Frontend: React 18, Next.js, TypeScript, JavaScript (ES6+), Zustand, Socket.IO, HTML5, CSS3, Tailwind CSS
+Backend: Node.js, Express.js, RESTful API, MVC Pattern, JWT Authentication, OAuth 2.0, WebSocket
+Database: PostgreSQL (Neon), SQL, Prisma ORM, Sequelize ORM, Database schema design
+DevOps & Cloud: Docker, AWS Lambda, CI/CD, Vercel, Render, Serverless deployment, Git, GitHub
+Testing: Playwright (E2E Testing)
+Methodologies: Agile, Scrum, Git workflow, Code review
+Tools & AI: GitHub Copilot, Claude, Codex, Cursor, Figma, Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: quang151104@gmail.com |  linkedin.com/in/quangpham15 
